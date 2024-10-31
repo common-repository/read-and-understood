@@ -1,0 +1,196 @@
+# Copyright (C) 2017 RnU (Read and Understood)
+# This file is distributed under the same license as the RnU (Read and Understood) package.
+msgid ""
+msgstr ""
+"Project-Id-Version: RnU (Read and Understood) 1.7\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/read-and-understood\n"
+"POT-Creation-Date: 2017-12-04 04:24:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: class_wp_rnu.php:313
+msgid "Username:"
+msgstr ""
+
+#: class_wp_rnu.php:314
+msgid "does not match the pattern:"
+msgstr ""
+
+#: class_wp_rnu.php:315 class_wp_rnu.php:442
+msgid "Please enter a username that has"
+msgstr ""
+
+#: class_wp_rnu.php:316
+msgid "Purge Acknowledgements"
+msgstr ""
+
+#: class_wp_rnu.php:341
+msgid "Your acknowledgement has been recorded."
+msgstr ""
+
+#: class_wp_rnu.php:385
+msgid "READ AND UNDERSTOOD"
+msgstr ""
+
+#: class_wp_rnu.php:392
+msgid "Login"
+msgstr ""
+
+#: class_wp_rnu.php:392
+msgid "Login (using this link)"
+msgstr ""
+
+#: class_wp_rnu.php:396
+msgid " or enter a Username: "
+msgstr ""
+
+#: class_wp_rnu.php:425
+msgid "Please login to this site"
+msgstr ""
+
+#: class_wp_rnu.php:427
+msgid " or enter a Username that matches the pattern"
+msgstr ""
+
+#: class_wp_rnu.php:441 class_wp_rnu.php:583 class_wp_rnu.php:585
+msgid "Username"
+msgstr ""
+
+#: class_wp_rnu.php:441 class_wp_rnu.php:585
+msgid "does not match the pattern"
+msgstr ""
+
+#: class_wp_rnu.php:446
+msgid "You have acknowledged this posting"
+msgstr ""
+
+#: class_wp_rnu.php:450
+msgid "Acknowledgements recorded using the \"Read and Understood\"(RnU) Plugin."
+msgstr ""
+
+#: class_wp_rnu.php:475
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: class_wp_rnu.php:496
+msgid "Need to set start and end date!"
+msgstr ""
+
+#: class_wp_rnu.php:499
+msgid "Error: Dates should be in yyyy-mm-dd format."
+msgstr ""
+
+#: class_wp_rnu.php:547
+msgid "Read and Understood Plugin Settings"
+msgstr ""
+
+#: class_wp_rnu.php:577
+msgid "settings saved."
+msgstr ""
+
+#: class_wp_rnu.php:583
+msgid "matches the pattern"
+msgstr ""
+
+#: class_wp_rnu.php:600
+msgid "Categories to be acknowledged"
+msgstr ""
+
+#: class_wp_rnu.php:611
+msgid "The categories (if any) of any postings to be acknowledged by users."
+msgstr ""
+
+#: class_wp_rnu.php:612
+msgid "Use ctrl key to select / deselect any or all options."
+msgstr ""
+
+#: class_wp_rnu.php:615
+msgid "Require Login"
+msgstr ""
+
+#: class_wp_rnu.php:624
+msgid "If checked, users must login to the site using a WordPress login; otherwise, they may enter a courtesy username."
+msgstr ""
+
+#: class_wp_rnu.php:628
+msgid "Courtesy Username Validation Pattern"
+msgstr ""
+
+#: class_wp_rnu.php:631
+msgid "A regular expression used as the 'PATTERN' e.g. "
+msgstr ""
+
+#: class_wp_rnu.php:635
+msgid "Courtesy Username Validation Title"
+msgstr ""
+
+#: class_wp_rnu.php:638
+msgid "A description of the 'PATTERN' e.g. "
+msgstr ""
+
+#: class_wp_rnu.php:642
+msgid "Courtesy Username Validation Test"
+msgstr ""
+
+#: class_wp_rnu.php:645
+msgid "Type a username here and it will be validated using the regular expression."
+msgstr ""
+
+#: class_wp_rnu.php:646
+msgid "*validation requires that javascript be enabled."
+msgstr ""
+
+#: class_wp_rnu.php:676
+msgid "default dates are loaded from the last successful export/purge"
+msgstr ""
+
+#: class_wp_rnu.php:679
+msgid "All Users"
+msgstr ""
+
+#: class_wp_rnu.php:688
+msgid "If checked, all users will be exported regardless of whether any acknowledgements are found. This helps if you are looking to see who has NOT acknowledged."
+msgstr ""
+
+#: class_wp_rnu.php:714
+msgid "Confirm Purge of "
+msgstr ""
+
+#: class_wp_rnu.php:714
+msgid " record(s)"
+msgstr ""
+
+#: class_wp_rnu.php:724
+msgid " record(s) have been purged."
+msgstr ""
+
+#: class_wp_rnu.php:728
+msgid "Read and Understood plugin page"
+msgstr ""
+
+#: class_wp_rnu.php:1005 class_wp_rnu.php:1100
+msgid "Warning: No records to export within date range."
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "RnU (Read and Understood)"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://mantos.com/experience-and-expertise/plugin-read-understood/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Records acknowledgements that specific users have read specific postings (or not)."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Peter Mantos; Mantos I.T. Consulting Inc."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://mantos.com/experience-and-expertise/peter-mantos-resume/"
+msgstr ""
